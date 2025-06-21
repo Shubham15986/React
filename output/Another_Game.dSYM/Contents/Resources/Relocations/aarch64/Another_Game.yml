@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/shubham/Documents/Reactjs/output/Another_Game'
+relocations:     []
+...
